@@ -40,10 +40,6 @@ pip install -r requirements.txt
 - Run `streamlit run dashboard_app.py` to launch a simple interactive Product Dashboard metrics, filters, and a bar chart comparing sales and profit.
 - Run `streamlit run streamlit_app.py` to launch an interactive dashboard based on Gapminder data, visualizing global trends in GDP, population, and life expectancy.
 
-```
-streamlit run app.py 
-```
-
 #### 4. Customize
 Customize apps or create a new one to show your own data and visuals.
 This is a beginner-friendly project and easy to expand.
