@@ -43,3 +43,7 @@ pip install -r requirements.txt
 #### 4. Customize
 Customize apps or create a new one to show your own data and visuals.
 This is a beginner-friendly project and easy to expand.
+
+## Deployment
+This app is deployed on Render.
+🔗 Live URL: https://vf-dashboard-app.streamlit.app/
